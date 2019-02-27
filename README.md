@@ -2,7 +2,6 @@
 
 @author Ganesh Nagalingam
 
-GitHub
 Proof of Concept shows Spring boot application that explores Zuul router integration with Ribbon to identify services through service id from Eureka discoverer.
 Two types of Clients, such as Feign and Rest Template have been used to compare service invocation styles.
 Four different modules have been created and integrated. Multiple instances have been created to test load balance capability.
