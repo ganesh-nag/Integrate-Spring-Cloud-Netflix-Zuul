@@ -16,6 +16,12 @@ Ribbon load balancer, Feign, Rest template ( 2 different clients used to compare
 
 Eureka discoverer server.
 
+------------------------------------
+This spring boot project amalgamate with Angular client project https://github.com/ganesh-nag/Angular-Forex.
+An article has been published in https://medium.com/geekculture/amalgamate-angular-with-spring-cloud-architecture-through-cors-7f13b5fdb98f which will explain in detail.
+
+Interested readers can check this out!!!
+
 Happy learning!!!
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
